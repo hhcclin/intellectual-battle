@@ -1,0 +1,28 @@
+# Node
+node_modules/
+
+# Environment
+.env
+.env.*
+
+# Logs
+*.log
+
+# Build
+dist/
+build/
+
+# Generated
+generated/
+
+# Coverage
+coverage/
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+
+# macOS
+.DS_Store   
