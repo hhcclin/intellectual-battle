@@ -1,0 +1,25 @@
+const GameState = {
+
+  WAITING: "WAITING",
+
+  BETTING: "BETTING",
+
+  LOCK_BET: "LOCK_BET",
+
+  AGREEMENT: "AGREEMENT",
+
+  COUNTDOWN: "COUNTDOWN",
+
+  CHOOSING: "CHOOSING",
+
+  WAIT_RESULT: "WAIT_RESULT",
+
+  REVEAL: "REVEAL",
+
+  RESULT: "RESULT",
+
+  NEXT_ROUND: "NEXT_ROUND",
+
+};
+
+export default GameState;
